@@ -3,7 +3,7 @@
 # Мое резюме
  - [Резюме](https://drive.google.com/file/d/1ObwLqdHKB9-veJkk6bTr9-SSxO17yV0K/view?usp=sharing)
 # Мои работы
-- [Проекты](https://github.com/s-o-k-o-l999/YandexPrDS))
+- [Проекты](https://github.com/s-o-k-o-l999/YandexPrDS)
 
 <!--
 **s-o-k-o-l999/s-o-k-o-l999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
